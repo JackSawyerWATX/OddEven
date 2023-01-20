@@ -1,0 +1,1 @@
+A simple way to determine if a number is even or odd.
